@@ -1,21 +1,10 @@
 # Prueba
 
-<!-- 
-    Objetivo:
-        Ordenar las <li>
-    
-    Tips:
-        ⌘ /
-        ⇧ ⌥ A
-        Ctrl + /
-        Shift + Alt + A
--->
-
 <div>
     <!-- <span>Hola</span> -->
     <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        <!-- Eum maiores nostrum cum quasi totam. -->
+        
     </p>
 </div>
 
